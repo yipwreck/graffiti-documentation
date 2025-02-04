@@ -7,7 +7,6 @@ A responsive technical documentation page outlining tools, techniques, safety, a
 ## Features
 - **Responsive Design**: Works on mobile, tablet, and desktop.
 - **Navigation Sidebar**: Easy access to sections like "Tools and Materials" or "Safety and Legal Considerations."
-- **Code Examples**: Placeholder code blocks for future JavaScript integration.
 - **Semantic HTML**: Proper use of `<section>`, `<article>`, and `<header>` tags.
 - **Clean CSS**: Organized styling with Flexbox and media queries.
 
