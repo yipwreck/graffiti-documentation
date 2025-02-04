@@ -11,3 +11,4 @@ A responsive technical documentation page outlining tools, techniques, safety, a
 - **Code Examples**: Placeholder code blocks for future JavaScript integration.
 - **Semantic HTML**: Proper use of `<section>`, `<article>`, and `<header>` tags.
 - **Clean CSS**: Organized styling with Flexbox and media queries.
+
